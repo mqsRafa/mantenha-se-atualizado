@@ -8,6 +8,7 @@ Um projeto de demonstração utilizando a biblioteca Google ADK e o modelo Gemin
 Este projeto exemplifica o poder dos sistemas multiagente baseados em IA. Ao invés de um único modelo tentando realizar todas as tarefas, dividimos o trabalho entre agentes especializados, cada um focado em uma parte específica do processo: buscar informações, curar o conteúdo e apresentá-lo de forma acessível.
 
 A ideia é simular um pequeno fluxo de trabalho jornalístico automatizado, onde a notícia é primeiramente encontrada, depois avaliada por relevância e, por fim, "traduzida" para uma linguagem simples para o consumidor final.
+Acesse o projeto em [Google Colab](https://colab.research.google.com/drive/1-JAQm7RZx8YoFc_EVcvhRqoRHHgGRX_Y?usp=sharing)
 
 ## 🚀 Funcionalidades
 
