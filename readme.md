@@ -1,4 +1,5 @@
-# 📰 Mantenha-se Atualizado! Sistema Multiagente de Notícias com Gemini e Google ADK - Notícias em estilo Fofoca!
+# 📰 Mantenha-se Atualizado!
+Sistema Multiagente de Notícias com Gemini e Google ADK - Notícias em estilo Fofoca!
 
 Um projeto de demonstração utilizando a biblioteca Google ADK e o modelo Gemini para buscar, filtrar e resumir notícias relevantes com base na localização do usuário, empregando um sistema de múltiplos agentes de Inteligência Artificial.
 
